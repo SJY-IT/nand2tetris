@@ -9,7 +9,7 @@ Nand2Tetris ( https://www.nand2tetris.org/course )
 # Reflection, by doing this project:
 *I learned a lot about computer systems in great depth by experiencing how a simple elementary logic gate turns into a general-purpose computer system.*
 *It gave me a deeper insight on how computers actually work in the lowest level to the highest level. Now I truly understand computers more than ever.*
-*It was incredible to understand the whole process of how a simple chip just outputting 0 and 1 becomes to represent a complex computer system.*
+*It was incredible to understand the whole process of how a simple chip that just outputs 0 and 1 becomes to represent a complex computer system.*
 
 # Project List
 * Project 1: Boolean Logic
