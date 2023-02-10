@@ -3,8 +3,8 @@ Nand2Tetris ( https://www.nand2tetris.org/course )
 # Purpose of this project:
 *Starting out with one primitive logic gate—Nand—and build all the other logic gates from it.*
 *Eventually ending up building a general-purpose computer system and a modern software hierarchy from the ground up.*
-*Hardware development (written in HDL): combinational logic, memory, ALU, and CPU*
-*Software development: assembler, VM, and a compiler written in C++*
+*Hardware development (written in HDL): combinational logic, memory, ALU, and CPU.*
+*Software development: assembler, VM, and a compiler written in C++.*
 
 # Reflection, by doing this project:
 *I learned a lot about computer systems in great depth by experiencing how a simple elementary logic gate turns into a general-purpose computer system.*
